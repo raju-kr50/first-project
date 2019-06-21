@@ -1,0 +1,14 @@
+#first{
+    border: 1px solid red;
+    text-align: center;
+}
+#second{
+    border: 1px solid blue;
+    text-align: center;
+}div{
+    margin-left: 300px;
+    margin-right: 500px;
+}
+html{
+    background: grey;
+}
